@@ -27,8 +27,8 @@ public class IntegrationBase {
         DEFAULT_WAITFOR_AJAX_SECONDS = 30;
         USERNAME_1 = "rshayda";
         USERNAME_2 = "dsulimova";
-        PASSWORD_1 = "test1";
-        PASSWORD_2 = "test2";
+        PASSWORD_1 = "4esZXdr54321";
+        PASSWORD_2 = "Gtgfhrfreh098";
         ROBOT_NAME = "robotremit";
     }
 

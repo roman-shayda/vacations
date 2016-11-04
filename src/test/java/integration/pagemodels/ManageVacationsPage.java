@@ -18,8 +18,8 @@ import java.util.concurrent.TimeUnit;
 public class ManageVacationsPage extends AbstractWebComponent {
 
     //variables
-    public static final String ROBOT_EMAIL = "your@email";
-    public static final String ROBOT_PASSWORD = "your@password";
+    public static final String ROBOT_EMAIL = "robotremit@gmail.com";
+    public static final String ROBOT_PASSWORD = "robot_remit_vacation";
 
     @FindBy(css = "h1")
     public WebElement manageVacationsText;
