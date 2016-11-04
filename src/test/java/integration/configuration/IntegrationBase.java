@@ -25,11 +25,11 @@ public class IntegrationBase {
         BASIC_URL = "http://internal.lv.remit.se/login";
         DEFAULT_WAITFOR_PAGE_SECONDS = 30;
         DEFAULT_WAITFOR_AJAX_SECONDS = 30;
-        USERNAME_1 = "rshayda";
-        USERNAME_2 = "dsulimova";
-        PASSWORD_1 = "4esZXdr54321";
-        PASSWORD_2 = "Gtgfhrfreh098";
-        ROBOT_NAME = "robotremit";
+        USERNAME_1 = "";
+        USERNAME_2 = "";
+        PASSWORD_1 = "";
+        PASSWORD_2 = "";
+        ROBOT_NAME = "";
     }
 
     protected WebDriver driver;
